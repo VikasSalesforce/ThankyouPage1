@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <h2>Delicious Pizza</h2>
+            <img src="https://foodja.com/assets/foodja_logos/foodja-marketing-logo.svg"/>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thank You for Unsubscribing</title>
